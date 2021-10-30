@@ -1,12 +1,7 @@
 # Miku.N Anime discord bot
  
-<a href="https://discords.com/bots/bots/876139135507763280" >
-            <img src="https://discords.com/bots/api/bot/876139135507763280/widget" title="Visit Miku.N listed on Discords.com!" alt="Miku.N's Widget Failed to Load" /></a>
- <br><br>
 <a href="https://top.gg/bot/876139135507763280">
-  <img src="https://top.gg/api/widget/servers/876139135507763280.svg">
-</a> &nbsp&nbsp&nbsp&nbsp <a href="https://top.gg/bot/876139135507763280">
-  <img src="https://top.gg/api/widget/upvotes/876139135507763280.svg">
+  <img src="https://top.gg/api/widget/876139135507763280.svg">
 </a>
 
 
