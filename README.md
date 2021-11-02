@@ -30,4 +30,3 @@ https://discord.com/oauth2/authorize?client_id=876139135507763280&permissions=26
 # support server:<br>
 https://discord.gg/cyKAjwcZdB
 
-<iframe src="https://discord.com/widget?id=814812611111682088&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
