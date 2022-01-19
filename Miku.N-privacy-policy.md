@@ -40,4 +40,3 @@ Any future changes or updates to this policy, will be made aware of to our users
 
 Benzene (viswanathan)
 
-- GitHub: [https://github.com/ShoXi3](https://github.com/ShoXcy)
