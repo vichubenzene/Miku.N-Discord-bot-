@@ -21,7 +21,7 @@ This bot does not collect any data Automatically
 
 ### HOW WE USE YOUR DATA
 
-Your data is used to provide essential features in the anime quiz option in the bot which only starts collectig those when u run the command for the first time. and display it to other players if u reach a top 5 in points table, and channelid is stored for the autoposting webhooks... these will be collected only when u run the command from the` m.ahelp ` section
+Your data is used to provide essential features in the anime quiz option of the bot which starts collectig those data when you run the command for the first time. and it display's to other players if u reach a top 5 in points table, and channel id is stored for the autoposting webhooks, These will be collected only when You run the command from the ` m.ahelp ` section
 
 ### WHO HAS ACCESS
 
