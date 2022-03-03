@@ -22,7 +22,7 @@ If your server has anime freaks this bot can make their browsing easy and they c
 
 7.Rule34 , 3D nsfw, Read doujins, Auto nsfw webhooks🔞
 
-Best Nsfw bot about (60+) commands🎀
+Best Nsfw bot about with 100+ & sfw 75+ nsfw commands🎀
 
 # Invite link:<br>
 https://discord.com/oauth2/authorize?client_id=876139135507763280&permissions=2684741712&scope=bot%20applications.commands
