@@ -9,7 +9,7 @@
   <p align="center">
     The best anime bot for your server.
     <br />
-    <a href=""><strong>Explore website »</strong></a>
+    <a href="https://top.gg/bot/876139135507763280"><strong>Explore website »</strong></a>
     <br />
     <br />
     <a href="https://discord.gg/gZbUXsvqMZ">Discord Server</a>
