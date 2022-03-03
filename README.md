@@ -4,7 +4,8 @@
   <img src="https://top.gg/api/widget/876139135507763280.svg">
 </a>
 
-https://imgur.com/WSN5bOS
+<img src="https://imgur.com/WSN5bOS.jpg" alt="Miku.N logo">
+
 <h4>Wholesome bot for otaku/weeb servers... for the best anime vibes<br><br>
 If your server has anime freaks this bot can make their browsing easy and they can have Quiz contest and Wallpaper fun</h4>
 <hr>
