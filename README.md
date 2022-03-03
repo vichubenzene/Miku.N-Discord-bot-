@@ -20,7 +20,7 @@ If your server has anime freaks this bot can make their browsing easy and they c
 
 6.120 language translator with pronounciation
 
-7.Rule34 , 3D nsfw, read DOUJIN🔞
+7.Rule34 , 3D nsfw, Read doujins, Auto nsfw webhooks🔞
 
 Best Nsfw bot about (60+) commands🎀
 
