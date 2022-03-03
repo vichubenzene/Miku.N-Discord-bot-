@@ -42,9 +42,9 @@ If your server has anime freaks this bot can make their browsing easy and they c
 
 4.ANIME QUOTES,WALLPAPER🎊 🎉
 
-6.120 language translator with pronounciation
+5.120 language translator with pronounciation
 
-7.Rule34 , 3D nsfw, Read doujins, Auto nsfw webhooks🔞
+6.Rule34 , 3D nsfw, Read doujins, Auto nsfw webhooks🔞
 
 Best Nsfw bot with <b> 125+ sfw & 75+ nsfw <b> commands🎀
 
