@@ -28,8 +28,8 @@ Your data is used to provide essential features in the anime quiz option of the 
 Only the owner and the developers of the game have access to your data. Under no circumstance, anyone other than the mentioned above staff will be provided access to it. We take adequate measures to keep it safe and secured. We will never sell or share your information with a third party 
 
 ### DATA DELETION
-none of this is stored permently, we store it temporary, The Bot keeps the stored information in an internal cacheing mechanic for a certain amount of time. After this time period, the cached information will be dropped and only be re-added when required, You can delete your anime quiz data with ` m.delete ` command and webhook data with `  m.autoserverdelete `
-Any issues in it the user can request us to delete their data by joining the support server at [discord.gg/Miku.n](https://discord.gg/hJGGDSdr).
+These data will not be saved in any third party database.. we use discord private channel chat window to act as storage.. the uploading and downloading of the data will happen every time the bot restarts... You can delete your anime quiz data with ` m.delete ` command and webhook data with `  m.autoserverdelete `
+Any issues in it the user can request us to delete their data by joining the support server at [discord.gg/Miku.n](https://discord.gg/gZbUXsvqMZ).
 
 ### POLICY UPDATES
 
