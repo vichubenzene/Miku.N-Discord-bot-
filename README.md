@@ -21,7 +21,7 @@
 
 ![discord.py Version](https://img.shields.io/badge/lib-discord.py%201.7.3-crimson)
 ![Language](https://img.shields.io/badge/lang-Python%203.9-royalblue)
-
+![Host](https://img.shields.io/badge/host-heroku-blueviolet)
 
 
 <a href="https://top.gg/bot/876139135507763280">
@@ -48,9 +48,14 @@ If your server has anime freaks this bot can make their browsing easy and they c
 
 Best Nsfw bot with <b> 125+ sfw & 75+ nsfw <b> commands🎀
 
+# contribution:<br>
+We appreciate any inputs in new sfw ideas and in nsfw picture data source.. join support server for more
+
+
 # Invite link:<br>
 https://discord.com/oauth2/authorize?client_id=876139135507763280&permissions=2684741712&scope=bot%20applications.commands
 
 # support server:<br>
 https://discord.gg/cyKAjwcZdB
+
 
