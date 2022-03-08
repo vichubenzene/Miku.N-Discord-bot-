@@ -49,13 +49,13 @@ If your server has anime freaks this bot can make their browsing easy and they c
 Best Nsfw bot with <b> 125+ sfw & 75+ nsfw <b> commands🎀
 
 # Contribution: <br>
-We appreciate any inputs in new Sfw ideas and Nsfw picture data source.. join support server for more info
+We appreciate any inputs in new Sfw ideas and Nsfw picture data source.. Join [Support Server](https://discord.gg/cyKAjwcZdB) for more info
 
 
 # Invite link:<br>
 https://discord.com/oauth2/authorize?client_id=876139135507763280&permissions=2684741712&scope=bot%20applications.commands
 
-# support server:<br>
+# Support Server:<br>
 https://discord.gg/cyKAjwcZdB
 
 
