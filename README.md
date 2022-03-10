@@ -19,8 +19,8 @@
 <br>
 </p>
 
-![discord.py Version](https://img.shields.io/badge/lib-discord.py%201.7.3-crimson)
-![Language](https://img.shields.io/badge/lang-Python%203.9-royalblue)
+![Language](https://img.shields.io/badge/lang-Python%203.9-crimson)
+![discord.py Version](https://img.shields.io/badge/lib-discord.py%201.7.3-royalblue)
 ![Host](https://img.shields.io/badge/host-heroku-blueviolet)
 
 
