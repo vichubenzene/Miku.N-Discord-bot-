@@ -12,7 +12,7 @@
     <a href="https://top.gg/bot/876139135507763280"><strong>Explore website »</strong></a>
     <br />
     <br />
-    <a href="https://discord.gg/gZbUXsvqMZ">Discord Server</a>
+    <a href="https://discord.gg/cyKAjwcZdB">Discord Server</a>
     ·
     <a href="https://discord.com/oauth2/authorize?client_id=876139135507763280&permissions=2684741712&scope=bot%20applications.commands">Invite Miku.N</a>
   </p>
