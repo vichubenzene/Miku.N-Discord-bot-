@@ -40,11 +40,13 @@ If your server has anime freaks this bot can make their browsing easy and they c
 
 3.ANIME QUIZ WITH GLOBAL POINT SYSTEM
 
-4.ANIME QUOTES,WALLPAPER🎊 🎉
+4.ANIME QUOTES,WALLPAPER 🍷
 
-5.120 language translator with pronounciation
+5.Anime Search engine 🔍 (sauce finder)
 
-6.Rule34, 3D nsfw, Read doujins, Futanari, Auto nsfw webhooks🔞
+6.120 language translator with pronounciation
+
+7.Rule34, 3D nsfw, Read doujins, Futanari, Auto nsfw webhooks🔞
 
 Best Nsfw bot with <b> 125+ sfw & 75+ nsfw <b> commands🎀
 
