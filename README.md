@@ -22,12 +22,11 @@
 ![Language](https://img.shields.io/badge/lang-Python%203.9-crimson)
 ![discord.py Version](https://img.shields.io/badge/lib-discord.py%201.7.3-royalblue)
 ![Host](https://img.shields.io/badge/host-heroku-blueviolet)
-
-
-<a href="https://top.gg/bot/876139135507763280">
-  <img src="https://top.gg/api/widget/876139135507763280.svg">
-</a>
-
+<br>
+[![Discord Bots](https://top.gg/api/widget/owner/876139135507763280.svg)](https://top.gg/bot/876139135507763280)&nbsp;
+[![Discord Bots](https://top.gg/api/widget/status/876139135507763280.svg)](https://top.gg/bot/876139135507763280)&nbsp;
+[![Discord Bots](https://top.gg/api/widget/upvotes/876139135507763280.svg)](https://top.gg/bot/876139135507763280)&nbsp;
+[![Discord Bots](https://top.gg/api/widget/servers/876139135507763280.svg)](https://top.gg/bot/876139135507763280)
 
 <h4>Wholesome bot for otaku/weeb servers... for the best anime vibes<br><br>
 If your server has anime freaks this bot can make their browsing easy and they can have Quiz contest and Wallpaper fun</h4>
