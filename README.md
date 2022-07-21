@@ -23,7 +23,7 @@
 ![Language](https://img.shields.io/badge/lang-Python%203.9-crimson)&nbsp;
 ![discord.py Version](https://img.shields.io/badge/lib-discord.py%201.7.3-royalblue)&nbsp;
 ![Host](https://img.shields.io/badge/host-heroku-blueviolet)&nbsp;
-![open-source](https://img.shields.io/badge/open_source-False-ff0000)
+![open-source](https://img.shields.io/badge/open_source-False-D10000)
 <br> <br>
 [![Discord Bots](https://top.gg/api/widget/owner/876139135507763280.svg)](https://top.gg/bot/876139135507763280)&nbsp;&nbsp;
 [![Discord Bots](https://top.gg/api/widget/status/876139135507763280.svg)](https://top.gg/bot/876139135507763280)&nbsp;&nbsp;
