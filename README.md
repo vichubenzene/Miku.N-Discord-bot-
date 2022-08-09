@@ -48,12 +48,10 @@ If your server has anime freaks this bot can make their browsing easy and they c
 
 6.120 language translator with pronounciation
 
-7.Rule34, 3D nsfw, Read doujins, Futanari, Auto nsfw webhooks🔞
-
-Best Nsfw bot with <b> 125+ sfw & 75+ nsfw <b> commands🎀
+Best Anime bot with <b> 125+ sfw <b> commands🎀
 
 # Contribution: <br>
-We appreciate any inputs in new Sfw ideas and Nsfw picture data source.. Join [Support Server](https://discord.gg/cyKAjwcZdB) for more info
+We appreciate any inputs in new Sfw ideas, Join [Support Server](https://discord.gg/cyKAjwcZdB) for more info
 
 
 # Invite link:<br>
