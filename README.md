@@ -25,10 +25,10 @@
 ![Host](https://img.shields.io/badge/host-heroku-blueviolet)&nbsp;
 ![open-source](https://img.shields.io/badge/open_source-False-D10000)
 <br> <br>
-[![Discord Bots](https://top.gg/api/widget/owner/876139135507763280.svg)](https://top.gg/bot/876139135507763280)&nbsp;&nbsp;
-[![Discord Bots](https://top.gg/api/widget/status/876139135507763280.svg)](https://top.gg/bot/876139135507763280)&nbsp;&nbsp;
-[![Discord Bots](https://top.gg/api/widget/upvotes/876139135507763280.svg)](https://top.gg/bot/876139135507763280)&nbsp;&nbsp;
-[![Discord Bots](https://top.gg/api/widget/servers/876139135507763280.svg)](https://top.gg/bot/876139135507763280)
+[![Bot Owner](https://top.gg/api/widget/owner/876139135507763280.svg)](https://top.gg/bot/876139135507763280)&nbsp;&nbsp;
+[![Bot Status](https://top.gg/api/widget/status/876139135507763280.svg)](https://top.gg/bot/876139135507763280)&nbsp;&nbsp;
+[![Bot upvotes](https://top.gg/api/widget/upvotes/876139135507763280.svg)](https://top.gg/bot/876139135507763280)&nbsp;&nbsp;
+[![Bot server](https://top.gg/api/widget/servers/876139135507763280.svg)](https://top.gg/bot/876139135507763280)
 
 <h4>Wholesome bot for otaku/weeb servers... for the best anime vibes<br><br>
 If your server has anime freaks this bot can make their browsing easy and they can have Quiz contest and Wallpaper fun</h4>
