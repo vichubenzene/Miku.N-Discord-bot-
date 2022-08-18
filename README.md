@@ -57,6 +57,9 @@ We appreciate any inputs in new Sfw ideas, Join [Support Server](https://discord
 # Invite link:<br>
 https://discord.com/oauth2/authorize?client_id=876139135507763280&permissions=2684741712&scope=bot%20applications.commands
 
+# Graphical stats: <br> 
+<img src="https://images-ext-2.discordapp.net/external/qvwQ7wYte-52FFH_GZ4XoLrLfRgf5C0D75wbMcd6afI/%3Fwidth%3D1500%26height%3D700%26backgroundColor%3D00000000%26titleFontSize%3D55%26labelFontSize%3D32%26cache%3D7571557/https/dblstatistics.com/bot/876139135507763280/widget/servers?width=1020&height=554" alt="2d graph" width="400" height="200">
+
 # Support Server:<br>
 https://discord.gg/cyKAjwcZdB
 
