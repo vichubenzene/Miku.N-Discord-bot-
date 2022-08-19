@@ -28,7 +28,7 @@
 [![Bot Owner - reload site](https://top.gg/api/widget/owner/876139135507763280.svg)](https://top.gg/bot/876139135507763280)&nbsp;&nbsp;
 [![Bot Status - reload site](https://top.gg/api/widget/status/876139135507763280.svg)](https://top.gg/bot/876139135507763280)&nbsp;&nbsp;
 <br> <br>
-<strong>`📢 Fundraising:` <br> &nbsp; &nbsp; `Currently there are 3.2k+ servers.. but the bot is down for 350+ servers because of Ram issue. Get your Patreon from support server if you wish to support Me and my Bot..`</strong><br>
+<strong>`📢 Fundraising:` <br> &nbsp; &nbsp; `Currently there are 3.4k+ servers.. but the bot is down for 350+ servers because of Ram issue. Get your Patreon from support server if you wish to support Me and my Bot..`</strong><br>
 <strong><sub>`read donations below for more info about patreon`</strong></sub>
 
 <h4>Wholesome bot for otaku/weeb servers... for the best anime vibes<br><br>
@@ -66,7 +66,7 @@ https://discord.com/oauth2/authorize?client_id=876139135507763280&permissions=26
 
 # Graphical stats: <br> 
 <img src="https://images-ext-2.discordapp.net/external/qvwQ7wYte-52FFH_GZ4XoLrLfRgf5C0D75wbMcd6afI/%3Fwidth%3D1500%26height%3D700%26backgroundColor%3D00000000%26titleFontSize%3D55%26labelFontSize%3D32%26cache%3D7571557/https/dblstatistics.com/bot/876139135507763280/widget/servers?width=1020&height=554" alt="2d graph" width="400" height="200"><br>
-`Currently there are 3.2k servers.. Ram issues caped it at 2800 😥`
+`aprox plot of servers with available data, Currently there are 3.4k servers.. But Ram issues caped it at 2800 😥`
 
 # Support Server:<br>
 https://discord.gg/cyKAjwcZdB
