@@ -27,10 +27,8 @@
 <br> <br>
 [![Bot Owner](https://top.gg/api/widget/owner/876139135507763280.svg)](https://top.gg/bot/876139135507763280)&nbsp;&nbsp;
 [![Bot Status](https://top.gg/api/widget/status/876139135507763280.svg)](https://top.gg/bot/876139135507763280)&nbsp;&nbsp;
-[![Bot upvotes](https://top.gg/api/widget/upvotes/876139135507763280.svg)](https://top.gg/bot/876139135507763280)&nbsp;&nbsp;
-[![Bot server](https://top.gg/api/widget/servers/876139135507763280.svg)](https://top.gg/bot/876139135507763280)
 <br> <br>
-<strong>`📢 Currently there are 3.4k+ servers.. but the bot is down for 450+ servers because of Ram issue, it will be solved soon 🙂. Get your Patreon from support server if you wish to support Me and my Bot..`</strong><br>
+<strong>`📢 Fundraising:` <br> &nbsp; &nbsp; `Currently there are 3.2k+ servers.. but the bot is down for 350+ servers because of Ram issue. Get your Patreon from support server if you wish to support Me and my Bot..`</strong><br>
 <strong><sub>`read donations below for more info about patreon`</strong></sub>
 
 <h4>Wholesome bot for otaku/weeb servers... for the best anime vibes<br><br>
@@ -57,10 +55,10 @@ Best Anime bot with <b> 125+ sfw <b> commands🎀
 > <strong>➺ Currently Miku.N doesn't have any Special Commands for Patreons.. <br><ins>But few Commands will be converted to Patreon Only with monthly Payment system in the near future </ins></strong>
 <br><br> <strong>➺ But if You get Your Patreon Now.. One time Payment will be taken as LifeTime Payment ( considered as a early supporter )</strong><br>
 `Accepting Crypto` <sub><img src="https://cdn.discordapp.com/emojis/978980488360374302.gif?size=56&quality=lossless" width="16"></sub> `/ all Indian Payments Methods / Patreon` <sub> <img src="https://cdn.discordapp.com/emojis/997138685617254440.webp?size=56&quality=lossless" width="16"></sub> ` website is also Live`
-<br><br>**➺ `Kindly Join Support server and reach out to me before You proceed`**,<br>I __stoped accepting__ gift / payment in the form of Discord Nitro $5/$10, Server Boost $5, OTT platform from users
+<br><br>**➺ `Kindly Join Support server and reachout to me before You proceed`**,<br>I __stoped accepting__ gift / payment in the form of Discord Nitro $5/$10, Server Boost $5, OTT platform from users.
 
 # Contribution: <br>
-Right i am a solo devloper, I appreciate any inputs in new ideas for the Bot, Join [Support Server](https://discord.gg/cyKAjwcZdB) for more info <br> <sub>*Currently I am looking for a guy to help with basic front end and Back end Knowledge for the website I am building for this bot -> [website-github](https://github.com/vichubenzene/miku.n-website)*</sub>
+Right now I am a solo developer, I appreciate any inputs in new ideas for the Bot, Join [Support Server](https://discord.gg/cyKAjwcZdB) for more info <br> <sub>*Currently I am looking for a guy with basic front end and Back end Knowledge for helping me in a website I am currently building for this bot -> [website-github](https://github.com/vichubenzene/miku.n-website)*</sub>
 
 
 # Invite link:<br>
@@ -68,7 +66,7 @@ https://discord.com/oauth2/authorize?client_id=876139135507763280&permissions=26
 
 # Graphical stats: <br> 
 <img src="https://images-ext-2.discordapp.net/external/qvwQ7wYte-52FFH_GZ4XoLrLfRgf5C0D75wbMcd6afI/%3Fwidth%3D1500%26height%3D700%26backgroundColor%3D00000000%26titleFontSize%3D55%26labelFontSize%3D32%26cache%3D7571557/https/dblstatistics.com/bot/876139135507763280/widget/servers?width=1020&height=554" alt="2d graph" width="400" height="200"><br>
-`Currently there are 3.4k servers.. Ram issues caped it at 2800 😥`
+`Currently there are 3.2k servers.. Ram issues caped it at 2800 😥`
 
 # Support Server:<br>
 https://discord.gg/cyKAjwcZdB
