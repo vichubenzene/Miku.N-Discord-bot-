@@ -1,4 +1,7 @@
 # Miku.N discord bot
+<strong><h4>`📢 Fundraising:`</h4>&nbsp; &nbsp; `Currently there are 3.4k+ servers.. but the bot is down for 350+ servers because of Ram issue. Get your Patreon from support server if you wish to support Me and my Bot..`</strong><br>
+<strong><sub>` ➺ Read Donations below for more info about patreon`</strong></sub>
+
 <p align="center">
   <a href="https://discord.com/oauth2/authorize?client_id=876139135507763280&permissions=2684741712&scope=bot%20applications.commands">
     <img src="https://imgur.com/WSN5bOS.jpg" alt="Logo" width="120" height="120" style="border-radius: 50%">
@@ -28,8 +31,7 @@
 [![Bot Owner - reload site](https://top.gg/api/widget/owner/876139135507763280.svg)](https://top.gg/bot/876139135507763280)&nbsp;&nbsp;
 [![Bot Status - reload site](https://top.gg/api/widget/status/876139135507763280.svg)](https://top.gg/bot/876139135507763280)&nbsp;&nbsp;
 <br> <br>
-<strong>`📢 Fundraising:` <br> &nbsp; &nbsp; `Currently there are 3.4k+ servers.. but the bot is down for 350+ servers because of Ram issue. Get your Patreon from support server if you wish to support Me and my Bot..`</strong><br>
-<strong><sub>`read donations below for more info about patreon`</strong></sub>
+
 
 <h4>Wholesome bot for otaku/weeb servers... for the best anime vibes<br><br>
 If your server has anime freaks this bot can make their browsing easy and they can have Quiz contest and Wallpaper fun</h4>
