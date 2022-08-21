@@ -1,7 +1,13 @@
 # Miku.N discord bot
-<strong><h4>`📢 Fundraising:`</h4>&nbsp; &nbsp; `Currently there are 3.4k+ servers.. but the bot is down for 350+ servers because of Ram issue. Get your Patreon from support server if you wish to support Me and my Bot..`</strong><br>
+
+
+
+<strong><h4>`📢 Fundraising:`<sub> (19-July-2022)</sub></h4>&nbsp; &nbsp; `Currently there are 3.4k+ servers.. but the bot is down for 350+ servers because of Ram issue. Get your Patreon from support server if you wish to support Me and my Bot..`</strong><br>
 <strong><sub>` ➺ Read Donations below for more info about patreon`</strong></sub>
 
+<strong><h4>`📢Pre_Planned_Temporary_ShutDown`</strong><sub> (22-Aug-2022)</sub> </h4>&nbsp; `From: 31-Aug-2022  - To: 1 month+ `<br>&nbsp; `➺Reason: Miku.N Runs on with Python(discord.py) as Backend` <br>
+&nbsp; `Ram issues, New Slash commands System on discord and discord.py v1.7.3 - v2.0.0 version Upgrade`<br>
+ <sub>academic pressure, Will be back soon ;)</sub>
 <p align="center">
   <a href="https://discord.com/oauth2/authorize?client_id=876139135507763280&permissions=2684741712&scope=bot%20applications.commands">
     <img src="https://imgur.com/WSN5bOS.jpg" alt="Logo" width="120" height="120" style="border-radius: 50%">
