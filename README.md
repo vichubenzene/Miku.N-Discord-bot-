@@ -7,7 +7,7 @@
 
 <strong><h4>`📢Pre_Planned_Temporary_ShutDown`</strong><sub> (22-Aug-2022)</sub> </h4>&nbsp; `From: 31-Aug-2022  - To: 1 month+ `<br>&nbsp; `➺Reason: Miku.N Runs on with Python(discord.py) as Backend` <br>
 &nbsp; `Ram issues, New Slash commands System on discord and discord.py v1.7.3 - v2.0.0 version Upgrade`<br>
- <sub>Will be back soon with a 2 Owners ✌ (finally found a junior guy, whom i can really for future Maintenance) </sub>
+ <sub>Will be back soon with a 2 Owners ✌ ( finally found a junior guy, whom i can really on for future Maintenance and financial well being of the bot ) </sub>
 <p align="center">
   <a href="https://discord.com/oauth2/authorize?client_id=876139135507763280&permissions=2684741712&scope=bot%20applications.commands">
     <img src="https://imgur.com/WSN5bOS.jpg" alt="Logo" width="120" height="120" style="border-radius: 50%">
