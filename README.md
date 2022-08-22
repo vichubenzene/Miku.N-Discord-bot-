@@ -57,6 +57,19 @@ If your server has anime freaks this bot can make their browsing easy and they c
 
 Best Anime bot with <b> 125+ sfw <b> commands🎀
 
+# Demo
+> 0. [help](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/0.%20help.md)
+  
+> 1. [Image Search Engine](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/1.%20Search%20Engine.md)
+> 2. [Translator](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/2.%20Translator.md)
+> 3. [Wallpaper](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/3.%20Wallpaper.md)
+> 4. [Quotes](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/4.%20Quotes.md)
+> 5. [Quiz](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/7.%20quiz.md)
+> 6. [Manga](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/6.%20manga.md)
+> 7. [Anime](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/5.%20anime.md)
+> 8. [Reaction](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/8.%20reaction.md)
+> 9. [Utility](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/9.%20untilty.md)
+
 # Donations / Patreon <sub> <img src="https://cdn.discordapp.com/emojis/997138685617254440.webp?size=56&quality=lossless" width="22"></sub>
 > <strong>➺ Currently Miku.N doesn't have any Special Commands for Patreons.. <br><ins>But few Commands will be converted to Patreon Only with monthly Payment system in the near future </ins></strong>
 <br><br> <strong>➺ But if You get Your Patreon Now.. One time Payment will be taken as LifeTime Payment ( considered as a early supporter )</strong><br>
