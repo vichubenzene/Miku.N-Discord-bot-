@@ -32,7 +32,6 @@ class Example(commands.Cog):
     @commands.guild_only()
     async def wallpaper(self,ctx, *,arg=""):
         if arg=="":
-#                if ctx.channel.is_nsfw():
                  ppo=random.randint(0,1)
                  if ppo==0:
                        crtlink = (nekos.img("wallpaper"))
@@ -90,7 +89,7 @@ class Example(commands.Cog):
                     if (i % 2) == 0:
                         await asyncio.sleep(2)
             else:
-                    embed = discord.Embed(description= "**[Vote Here](https://top.gg/bot/876139135507763280/vote)**\n\n<:upvote:893317076297605200> **Vote Miku.n to get `Nsfw Loop` access** (12hrs)",colour=0x39138b)
+                    embed = discord.Embed(description= "**[Vote Here](https://top.gg/bot/876139135507763280/vote)**\n\n<:upvote:893317076297605200> **Vote Miku.n to get `Loop` access** (12hrs)",colour=0x39138b)
                     await ctx.reply(embed=embed) 
         else:         
                     cat = "waifu"
