@@ -88,7 +88,17 @@ https://discord.gg/cyKAjwcZdB
 
 
 # Graphical stats: <br> 
-<img src="https://images-ext-2.discordapp.net/external/qvwQ7wYte-52FFH_GZ4XoLrLfRgf5C0D75wbMcd6afI/%3Fwidth%3D1500%26height%3D700%26backgroundColor%3D00000000%26titleFontSize%3D55%26labelFontSize%3D32%26cache%3D7571557/https/dblstatistics.com/bot/876139135507763280/widget/servers?width=1020&height=554" alt="2d graph" width="400" height="200"><br>
-`approximate plot of servers with available data, Currently there are 3.4k servers.. But Ram issues caped it at 2800 😥`
 
+**Based on available Data:** 
+
+ ~ last accurate: **3.8k server, 95k users, 4.8k total upvotes**, Stopped calculating continuously because of Ram issues
+
+> <img src="https://dblstatistics.com/bot/876139135507763280/widget/ranks?width=1500&height=700&backgroundColor=00000000&titleFontSize=55&labelFontSize=32&cache=20628783" alt="2d graph" width="400" height="200"><br>
+
+> <img src="https://dblstatistics.com/bot/876139135507763280/widget/servers?width=1500&height=700&backgroundColor=00000000&titleFontSize=55&labelFontSize=32&cache=24383700" alt="2d graph" width="400" height="200"><br>
+
+
+> <img src="https://dblstatistics.com/bot/876139135507763280/widget/monthlyVotes?width=1500&height=700&backgroundColor=00000000&titleFontSize=55&labelFontSize=32&cache=20628783" alt="2d graph" width="400" height="200"><br>
+
+> <img src="https://dblstatistics.com/bot/876139135507763280/widget/totalVotes?width=1500&height=700&backgroundColor=00000000&titleFontSize=55&labelFontSize=32&cache=20628783" alt="2d graph" width="400" height="200"><br>
 
