@@ -37,12 +37,12 @@
 
 
 <h4>Wholesome bot for otaku/weeb servers... for the best anime vibes<br><br>
-If your server has anime freaks this bot can make their browsing easy and they can have Quiz contest and Wallpaper fun</h4>
+If your server has anime freaks this bot can make their browsing easy with Reverse image search, Translator and they can have Quotes, Quiz contest and Wallpaper fun and many </h4>
     <br><a href="https://dicordbot-miku-n.netlify.app/tos.html">Terms of service</a><strong> · </strong> <a href="https://dicordbot-miku-n.netlify.app/message.html">message policy</a><strong> · </strong><a href="https://dicordbot-miku-n.netlify.app/privacy.html">Privacy policy</a>
 <hr>
 
 # Features
-> ❶ For **Gogoanime Watch and Download link**🔗📺 on Discord
+> ❶ **Gogoanime Watch and Download link**🔗📺 on Discord
 
 > ❷ **Anime & Manga 🤩 info from My AnimeList**
 
@@ -50,7 +50,7 @@ If your server has anime freaks this bot can make their browsing easy and they c
 
 > ❹ **Anime Quotes,Wallpaper** 🍷
 
-> ❺ **Anime Search engine** 🔍 (sauce finder)
+> ❺ **Image Search engine** 🔍 (sauce finder)
 
 > ❻ **120 language translator with pronounciation**
 
