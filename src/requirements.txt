@@ -15,4 +15,3 @@ validator
 discord-components
 discord-webhook
 pysaucenao
-hmtai
