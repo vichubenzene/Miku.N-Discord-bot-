@@ -87,9 +87,17 @@ https://discord.com/oauth2/authorize?client_id=876139135507763280&permissions=26
 https://discord.gg/cyKAjwcZdB
 
 
-# Graphical stats: <br> 
 
-**Based on available Data:** 
+<h2>Bio & Badge</h2>
+
+<img src ="https://media.discordapp.net/attachments/988429993799467008/1001382059782180934/Screenshot_981.png" alt="badge" width="35%" height="35%">
+
+<br>
+
+
+<h2> Graphical stats </h2>
+
+**Based on available Data:**  <sub> 19/6/2022 </sub>
 
  ~ last accurate: **3.8k server, 95k users, 4.8k total upvotes**, Stopped calculating continuously because of Ram issues
 
