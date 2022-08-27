@@ -140,7 +140,7 @@ class mikufinder(commands.Cog):
 
         saucenao_url = f"https://saucenao.com/search.php?url={url}"
         try:
-            sauce = SauceNao(api_key='2c89779a50f401af9e0caaacb5299dab88dc0b84', priority=[21, 22, 5, 37, 25])
+            sauce = SauceNao(api_key='################', priority=[21, 22, 5, 37, 25])       #### Token ;)
             results = await sauce.from_url(url)
             embeds = await self.get_sauce_embeds(ctx, url, results)
         except SauceNaoException:
