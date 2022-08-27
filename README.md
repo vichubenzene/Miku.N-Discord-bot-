@@ -75,15 +75,16 @@ Best Anime bot with <b> 125+ sfw <b> commands🎀
 `Accepting Crypto` <sub><img src="https://cdn.discordapp.com/emojis/978980488360374302.gif?size=56&quality=lossless" width="16"></sub> `/ all Indian Payments Methods / Patreon` <sub> <img src="https://cdn.discordapp.com/emojis/997138685617254440.webp?size=56&quality=lossless" width="16"></sub> ` website is also Live`
 <br><br>**➺ `Kindly Join Support server and reachout to me before You proceed`**,<br>I __stoped accepting__ gift / payment in the form of Discord Nitro $5/$10, Server Boost $5, OTT platform from users.
 
-# Contribution: <br>
+<h2> Contribution: </h2>
+  
 Right now I am a solo developer, I appreciate any inputs in new ideas for the Bot, Join [Support Server](https://discord.gg/cyKAjwcZdB) for more info <br> <sub>*Currently I am looking for a guy with basic frontend and Backend Knowledge for helping me in a website which is like a clone of Top.gg voting system, I am building it for supporting  this bot -> [website-github](https://github.com/vichubenzene/miku.n-website)*</sub>
 
 
-# Invite link:<br>
+<h2>Invite link:</h2>
 https://discord.com/oauth2/authorize?client_id=876139135507763280&permissions=2684741712&scope=bot%20applications.commands
 
 
-# Support Server:<br>
+<h2>Support Server:</h2>
 https://discord.gg/cyKAjwcZdB
 
 
