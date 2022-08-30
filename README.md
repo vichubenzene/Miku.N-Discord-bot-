@@ -36,8 +36,8 @@
 <br> <br>
 
 
-<h4>Wholesome bot for otaku/weeb servers... for the best anime vibes<br><br>
-If your server has anime freaks this bot can make their browsing easy with <ins>Reverse image search</ins>, <ins>Translator</ins> and they can have Quotes, Quiz contest and Wallpaperand many more fun</h4>
+<h3>Wholesome bot for otaku/weeb servers... for the best anime vibes<br><br>
+If your server has anime freaks this bot can make their browsing easy with <ins>Reverse image search</ins>, <ins>Translator</ins> and they can have Quotes, Quiz contest and Wallpaper with many more fun 💌</h3>
     <br><a href="https://dicordbot-miku-n.netlify.app/tos.html">Terms of service</a><strong> · </strong> <a href="https://dicordbot-miku-n.netlify.app/message.html">message policy</a><strong> · </strong><a href="https://dicordbot-miku-n.netlify.app/privacy.html">Privacy policy</a>
 <hr>
 
@@ -58,7 +58,9 @@ Best Anime bot with <b> 125+ sfw <b> commands🎀
 
 # Demo
 > 0. [help](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/0.%20help.md)
-  
+    
+>    <sub> ~ ⬇️ Ranked based on Click count's 😁 </sub>
+    
 > 1. [Image Search Engine](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/1.%20Search%20Engine.md)
 > 2. [Translator](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/2.%20Translator.md)
 > 3. [Wallpaper](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/3.%20Wallpaper.md)
@@ -89,7 +91,7 @@ https://discord.gg/cyKAjwcZdB
 
 
 
-<h2>Bio & Badge</h2>
+<h2>Badge</h2>(profile)<br>
 
 <img src ="https://media.discordapp.net/attachments/988429993799467008/1001382059782180934/Screenshot_981.png" alt="badge" width="35%" height="35%">
 
