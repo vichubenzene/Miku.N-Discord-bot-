@@ -36,9 +36,8 @@
 <br> <br>
 
 
-<h3>Wholesome bot for otaku/weeb servers... for the best anime vibes<br><br>
-If your server has anime freaks this bot can make their browsing easy with <ins>Reverse image search</ins>, <ins>Translator</ins> and they can have Quotes, Quiz contest and Wallpaper with many more fun 💌</h3>
-    <br><a href="https://dicordbot-miku-n.netlify.app/tos.html">Terms of service</a><strong> · </strong> <a href="https://dicordbot-miku-n.netlify.app/message.html">message policy</a><strong> · </strong><a href="https://dicordbot-miku-n.netlify.app/privacy.html">Privacy policy</a>
+<h3>Wholesome bot for otaku/weeb servers... for the best anime vibes 💌<br></h3><br>
+<a href="https://dicordbot-miku-n.netlify.app/tos.html">Terms of service</a><strong> · </strong> <a href="https://dicordbot-miku-n.netlify.app/message.html">message policy</a><strong> · </strong><a href="https://dicordbot-miku-n.netlify.app/privacy.html">Privacy policy</a>
 <hr>
 
 # Features
