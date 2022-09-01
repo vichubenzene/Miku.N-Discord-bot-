@@ -90,10 +90,11 @@ https://discord.gg/cyKAjwcZdB
 
 
 
-<h2>Badge</h2>(profile)<br>
+<h2>Badge & Data Access</h2>(profile)<br>
 
 <img src ="https://media.discordapp.net/attachments/988429993799467008/1001382059782180934/Screenshot_981.png" alt="badge" width="35%" height="35%">
-
+&nbsp;&nbsp;&nbsp;
+<img src ="https://imgur.com/54wYIBt.jpg" alt="data" width="34%" height="34%">
 <br>
 
 
