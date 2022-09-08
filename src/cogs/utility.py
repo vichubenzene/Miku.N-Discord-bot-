@@ -10,8 +10,6 @@ from jikanpy import jikan
 aki = jikan.Jikan()
 import topgg
 dbl_token = "####" #token
-with open('sfw_json/insult.json','r')as f:
-     src_insult=json.load(f)
 
 with open('sfw_json/topic.json', 'r') as f:
     src_topic=json.load(f)
@@ -154,17 +152,6 @@ class Example(commands.Cog):
         ltopic=random.choice(src_topic)
         await ctx.send(ltopic)
         
-    @commands.command()
-    @commands.cooldown(1, 5, commands.BucketType.user)
-    @commands.guild_only()
-    async def insult(self,ctx, member: discord.Member = None):
-        a=random.choice(src_insult)
-        if not member:
-             b =f"{a}"
-        else:
-             b =f"**{member.name}** {a}"
-        await ctx.send(b)
-
      
     @commands.command(aliases=["trash"])
     @commands.cooldown(1, 5, commands.BucketType.user)
