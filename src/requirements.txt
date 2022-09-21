@@ -12,6 +12,5 @@ validators
 pygicord
 AnilistPython
 validator
-discord-components
 discord-webhook
 pysaucenao
