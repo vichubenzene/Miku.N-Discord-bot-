@@ -98,11 +98,7 @@ https://discord.gg/cyKAjwcZdB
 <br>
 
 
-<h2> Graphical stats </h2>
-
-**Based on available Data:**  <sub> 19/7/2k22 </sub>
-
- ~ last accurate: **3.8k server, 95k users, 4.8k total upvotes**, Stopped calculating continuously because of Ram issues
+<h2> Graphical stats <sub> <img src="https://i.imgur.com/um6UdSh.gif" width="60"></sub> </h2>  
 
 > <img src="https://dblstatistics.com/bot/876139135507763280/widget/ranks?width=1500&height=700&backgroundColor=00000000&titleFontSize=55&labelFontSize=32&cache=20628783" alt="2d graph" width="400" height="200"><br>
 
@@ -113,3 +109,6 @@ https://discord.gg/cyKAjwcZdB
 
 > <img src="https://dblstatistics.com/bot/876139135507763280/widget/totalVotes?width=1500&height=700&backgroundColor=00000000&titleFontSize=55&labelFontSize=32&cache=20628783" alt="2d graph" width="400" height="200"><br>
 
+**Based on available Data:**  <sub> 19/7/2k22 </sub>
+
+ ~ last accurate: **3.8k server, 95k users, 4.8k total upvotes**, Stopped calculating continuously because of Ram issues
