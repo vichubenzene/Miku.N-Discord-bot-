@@ -1,4 +1,5 @@
-# Miku.N discord bot
+# Miku.N discord bot <img src="https://komarev.com/ghpvc/?username=MikuNDiscordbot&label=Views&style=flat&color=blueviolet" alt="counter"/>
+
 
 
 
