@@ -7,6 +7,11 @@
 <strong><sub>` ➺ Read Donations below for more info about patreon`</strong></sub>
 
 
+<strong><h4>`📢 Tasks`<sub> (08-Nov-2022)</sub></h4>&nbsp; &nbsp; `1. Need to find an alternative Host   (Heroku will stop its free service from 28th Nov 2022) `<br>&nbsp; &nbsp; `2. Upgrading from python 3.8.10 to >=3.10   (lxml version error)`<br>&nbsp; &nbsp; `3. Image source needs to be uploaded to cloud   (found a free cloud)`</strong><br>
+<strong><sub>` ➺ Small Api changes may cause few command errors, Those will be solved when "Task 1" is completed`</strong></sub>
+
+<hr>
+
 <p align="center">
   <a href="https://discord.com/oauth2/authorize?client_id=876139135507763280&permissions=2684741712&scope=bot%20applications.commands">
     <img src="https://imgur.com/WSN5bOS.jpg" alt="Logo" width="120" height="120" style="border-radius: 50%">
