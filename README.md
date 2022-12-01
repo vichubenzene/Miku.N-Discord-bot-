@@ -1,7 +1,7 @@
 # Miku.N discord bot <img src="https://komarev.com/ghpvc/?username=MikuNDiscordbot&label=Views&style=flat&color=blueviolet" alt="counter"/>
 
 
-<strong><h4>`📢 Important`<sub> (20-Nov-2022)</sub></h4>&nbsp; &nbsp; Shutdowning of bot from 28/11 because of Discord API Changes & Ending of Heroku Free service <br>&nbsp; &nbsp; Looking forward for new Junior collaborators to join.. <3 <br>
+<strong><h4>`📢 Important`<sub> (20-Nov-2022)</sub></h4>&nbsp; &nbsp; Might Shutdown bot from 28/11 because of Discord API Changes & Ending of Heroku Free service <br>&nbsp; &nbsp; Looking forward for new "Junior collaborators" to join.. <3 <br>
 <strong><sub>` ➺ Come back soon`</strong></sub>
 <br>
 <br><hr>
