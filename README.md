@@ -1,7 +1,7 @@
 # Miku.N discord bot <img src="https://komarev.com/ghpvc/?username=MikuNDiscordbot&label=Views&style=flat&color=blueviolet" alt="counter"/>
 
 
-<strong><h4>`📢 Important`<sub> (20-Nov-2022)</sub></h4>&nbsp; &nbsp; Might Shutdown bot from 28/11 because of Discord API Changes & Ending of Heroku Free service <br>&nbsp; &nbsp; Looking forward for new "Junior collaborators" to join.. <3 <br>
+<strong><h4>`📢 Important`<sub> (20-Nov-2022)</sub></h4>&nbsp; &nbsp; Shutingdown bot from 28/11 because of Discord API Changes & Ending of Heroku Free service <br>&nbsp; &nbsp; Looking forward for new "Junior collaborators" to join.. <3 <br>
 <strong><sub>` ➺ Come back soon`</strong></sub>
 <br>
 <br><hr>
@@ -12,6 +12,7 @@
 <strong><h4>`📢 Fundraising:`<sub> (19-July-2022)</sub></h4>&nbsp; &nbsp; `Currently there are 3.4k+ servers.. but the bot is down for 350+ servers because of Ram issue. Get your Patreon from support server if you wish to support Me and my Bot..`</strong><br>
 <strong><sub>` ➺ Read Donations below for more info about patreon`</strong></sub>
 
+<strong><h4>`📢 Patreons:`<sub> (31-Nov-2022)</sub></h4>&nbsp; &nbsp; `Stoped all paid service.. Dont buy from other third party which claims Miku.N Bot`</strong><br>
 
 <hr>
 
@@ -44,6 +45,7 @@
 [![Bot Status - reload site](https://top.gg/api/widget/status/876139135507763280.svg)](https://top.gg/bot/876139135507763280)&nbsp;&nbsp;
 <br> <br>
 
+> removed from open source to avoid cheap knock off's and impersonating bots 
 
 <h3>Wholesome bot for otaku/weeb servers... for the best anime vibes 💌<br></h3><br>
 <a href="https://dicordbot-miku-n.netlify.app/tos.html">Terms of service</a><strong> · </strong> <a href="https://dicordbot-miku-n.netlify.app/message.html">message policy</a><strong> · </strong><a href="https://dicordbot-miku-n.netlify.app/privacy.html">Privacy policy</a>
@@ -68,6 +70,7 @@ Best Anime bot with <b> 125+ sfw <b> commands🎀
 > 0. [help](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/0.%20help.md)
     
 >    <sub> ~ ⬇️ Ranked based on Click count's 😁 </sub>
+
     
 > 1. [Image Search Engine](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/1.%20Search%20Engine.md)
 > 2. [Translator](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/2.%20Translator.md)
@@ -78,6 +81,8 @@ Best Anime bot with <b> 125+ sfw <b> commands🎀
 > 7. [Anime](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/5.%20anime.md)
 > 8. [Reaction](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/8.%20reaction.md)
 > 9. [Utility](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/9.%20untilty.md)
+
+
 
 # Donations / Patreon <sub> <img src="https://cdn.discordapp.com/emojis/997138685617254440.webp?size=56&quality=lossless" width="22"></sub>
 > <strong>➺ Currently Miku.N doesn't have any Special Commands for Patreons.. <br><ins>But few Commands will be converted to Patreon Only with monthly Payment system in the near future </ins></strong>
