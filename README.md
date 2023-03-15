@@ -81,23 +81,22 @@ Best Anime bot with <b> 125+ sfw <b> commands🎀
 > 2. [Translator](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/2.%20Translator.md)
 > 3. [Wallpaper](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/3.%20Wallpaper.md)
 > 4. [Quotes](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/4.%20Quotes.md)
-> 5. [Quiz](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/7.%20quiz.md)
+> 5. [Anime](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/5.%20anime.md)
 > 6. [Manga](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/6.%20manga.md)
-> 7. [Anime](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/5.%20anime.md)
-> 8. [Reaction](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/8.%20reaction.md)
-> 9. [Utility](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/9.%20untilty.md)
+> 7. [Reaction](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/8.%20reaction.md)
+> 8. [Utility](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/9.%20untilty.md)
 
 
 
-# Donations / Patreon <sub> <img src="https://cdn.discordapp.com/emojis/997138685617254440.webp?size=56&quality=lossless" width="22"></sub>
+<!-- # Donations / Patreon <sub> <img src="https://cdn.discordapp.com/emojis/997138685617254440.webp?size=56&quality=lossless" width="22"></sub>
 > <strong>➺ Currently Miku.N doesn't have any Special Commands for Patreons.. <br><ins>But few Commands will be converted to Patreon Only with monthly Payment system in the near future </ins></strong>
 <br><br> <strong>➺ But if You get Your Patreon Now.. One time Payment will be taken as LifeTime Payment ( considered as a early supporter )</strong><br>
 `Accepting Crypto` <sub><img src="https://cdn.discordapp.com/emojis/978980488360374302.gif?size=56&quality=lossless" width="16"></sub> `/ all Indian Payments Methods / Patreon` <sub> <img src="https://cdn.discordapp.com/emojis/997138685617254440.webp?size=56&quality=lossless" width="16"></sub> ` website is also Live`
 <br><br>**➺ `Kindly Join Support server and reachout to me before You proceed`**,<br>I __stoped accepting__ gift / payment in the form of Discord Nitro $5/$10, Server Boost $5, OTT platform from users.
 
-<h2> Contribution: </h2>
+<h2> Contribution: </h2> -->
   
-Right now I am a solo developer, I appreciate any inputs in new ideas for the Bot, Join [Support Server](https://discord.gg/cyKAjwcZdB) for more info <br> <sub>*Currently I am looking for a guy with basic frontend and Backend Knowledge for helping me in a website which is like a clone of Top.gg voting system, I am building it for supporting  this bot -> [website-github](https://github.com/vichubenzene/miku.n-website)*</sub>
+<!-- Right now I am a solo developer, I appreciate any inputs in new ideas for the Bot, Join [Support Server](https://discord.gg/cyKAjwcZdB) for more info <br> <sub>*Currently I am looking for a guy with basic frontend and Backend Knowledge for helping me in a website which is like a clone of Top.gg voting system, I am building it for supporting  this bot -> [website-github](https://github.com/vichubenzene/miku.n-website)*</sub> -->
 
 
 <h2>Invite link:</h2>
