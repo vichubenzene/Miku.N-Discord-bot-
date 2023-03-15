@@ -1,9 +1,14 @@
 # Miku.N discord bot <img src="https://komarev.com/ghpvc/?username=MikuNDiscordbot&label=Views&style=flat&color=blueviolet" alt="counter"/>
 
 
-<strong><h4>`📢 Important`<sub> (20-Nov-2022)</sub></h4>&nbsp; &nbsp; Shutingdown bot from 28/11 because of Discord API Changes & Ending of Heroku Free service <br>&nbsp; &nbsp; Looking forward for new "Junior collaborators" to join.. <3 <br>
+<strong><h4>`📢 Important`<sub> (20-Nov-2022)</sub></h4>&nbsp; &nbsp; Shutingdown bot from `28/11/2023` because of Discord API Changes & Ending of Heroku Free service <br>&nbsp; &nbsp; Looking forward for new "Junior collaborators" to join.. <3 <br>
 <strong><sub>` ➺ Come back soon`</strong></sub>
 <br>
+
+`⚠️ Miku.N Premium, Premium Gold, Patreon are not available (watch out for impersonators) ⚠️`
+
+` Private Code - to avoid impersonators ` 
+
 <br><hr>
 <strong><h4>`📢 Tasks`<sub> (08-Nov-2022)</sub></h4>&nbsp; &nbsp; `1. Need to find an alternative Host   (Heroku will stop its free service from 28th Nov 2022) `<br>&nbsp; &nbsp; `2. Upgrading from python 3.8.10 to >=3.10   (lxml version error)`<br>&nbsp; &nbsp; `3. Image source needs to be uploaded to cloud   (found a free cloud)`</strong><br>
 <strong><sub>` ➺ Small Api changes may cause few command errors, Those will be solved when "Task 1" is completed`</strong></sub>
