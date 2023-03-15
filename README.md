@@ -7,7 +7,7 @@
 
 `⚠️ Miku.N Premium, Premium Gold, Patreon are not available (watch out for impersonators) ⚠️`
 
-` Private Code - to avoid impersonators ` 
+> removed from open source to avoid cheap knock off's and impersonating bots 
 
 <br><hr>
 <strong><h4>`📢 Tasks`<sub> (08-Nov-2022)</sub></h4>&nbsp; &nbsp; `1. Need to find an alternative Host   (Heroku will stop its free service from 28th Nov 2022) `<br>&nbsp; &nbsp; `2. Upgrading from python 3.8.10 to >=3.10   (lxml version error)`<br>&nbsp; &nbsp; `3. Image source needs to be uploaded to cloud   (found a free cloud)`</strong><br>
@@ -50,7 +50,6 @@
 [![Bot Status - reload site](https://top.gg/api/widget/status/876139135507763280.svg)](https://top.gg/bot/876139135507763280)&nbsp;&nbsp;
 <br> <br>
 
-> removed from open source to avoid cheap knock off's and impersonating bots 
 
 <h3>Wholesome bot for otaku/weeb servers... for the best anime vibes 💌<br></h3><br>
 <a href="https://dicordbot-miku-n.netlify.app/tos.html">Terms of service</a><strong> · </strong> <a href="https://dicordbot-miku-n.netlify.app/message.html">message policy</a><strong> · </strong><a href="https://dicordbot-miku-n.netlify.app/privacy.html">Privacy policy</a>
@@ -69,14 +68,16 @@
 
 > ❻ **120 language translator with pronounciation**
 
-Best Anime bot with <b> 125+ sfw <b> commands🎀
+> ❼ **Mini Games** <br>
+> Cards Collection, Quiz, Speed Typing, Gym
+
+Best Anime bot with <b> 125+ <b> commands🎀
 
 # Demo
 > 0. [help](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/0.%20help.md)
     
 >    <sub> ~ ⬇️ Ranked based on Click count's 😁 </sub>
 
-    
 > 1. [Image Search Engine](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/1.%20Search%20Engine.md)
 > 2. [Translator](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/2.%20Translator.md)
 > 3. [Wallpaper](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/3.%20Wallpaper.md)
@@ -86,6 +87,12 @@ Best Anime bot with <b> 125+ sfw <b> commands🎀
 > 7. [Reaction](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/8.%20reaction.md)
 > 8. [Utility](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/Demo/9.%20untilty.md)
 
+
+> Mini-Games:
+> 1. [Card Game](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/MiniGame_Demo/1.Card%20Game.md)
+> 2. [Quiz](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/MiniGame_Demo/2.%20Quiz.md)
+> 3. [Type Racing](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/MiniGame_Demo/3.%20Type%20Racing.md)
+> 4. [Gym](https://github.com/vichubenzene/Miku.N-Discord-bot-/blob/main/MiniGame_Demo/4.%20Gym.md)
 
 
 <!-- # Donations / Patreon <sub> <img src="https://cdn.discordapp.com/emojis/997138685617254440.webp?size=56&quality=lossless" width="22"></sub>
@@ -97,8 +104,18 @@ Best Anime bot with <b> 125+ sfw <b> commands🎀
 <h2> Contribution: </h2> -->
   
 <!-- Right now I am a solo developer, I appreciate any inputs in new ideas for the Bot, Join [Support Server](https://discord.gg/cyKAjwcZdB) for more info <br> <sub>*Currently I am looking for a guy with basic frontend and Backend Knowledge for helping me in a website which is like a clone of Top.gg voting system, I am building it for supporting  this bot -> [website-github](https://github.com/vichubenzene/miku.n-website)*</sub> -->
+<br>
+
+> <h2>Contributions / Premium / Donations / Patreon (realated)</h2>
 
 
+> Miku.N Discord Bot has been Discontinued. No more Premium or Patreon are taken at the moment. 
+> 
+> Donations are taken via Paypal / Wise / Indian payments / Crypto.. Join support server for more info
+>  
+> As there are many audience for the service Donations will fuel Juniors to take over
+
+<br>
 <h2>Invite link:</h2>
 https://discord.com/oauth2/authorize?client_id=876139135507763280&permissions=2684741712&scope=bot%20applications.commands
 
