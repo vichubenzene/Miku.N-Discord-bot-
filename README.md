@@ -125,4 +125,4 @@ https://discord.gg/cyKAjwcZdB
 
 **Based on available Data:**  <sub> 19/7/2k22 </sub>
 
- ~ last accurate: **3.8k server, 95k users, 4.8k total upvotes**, Stopped calculating continuously because of Ram issues
+ ~ last accurate: **3.8k server, 395k users, 5k total upvotes**, Stopped calculating continuously because of Ram issues
