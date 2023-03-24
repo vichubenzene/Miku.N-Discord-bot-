@@ -2,10 +2,13 @@
 
 
 <strong><h4>`📢 Important`<sub> (20-Nov-2022)</sub></h4>&nbsp; &nbsp; Shutingdown bot from `28/11/2023` because of Discord API Changes & Ending of Heroku Free service <br>&nbsp; &nbsp; Looking forward for new "Junior collaborators" to join.. <3 <br>
-<strong><sub>` ➺ Come back soon`</strong></sub>
+
+<strong style="colour: pink"> ➺ Come back soon with NFT MiniGame</strong>
+
 <br>
 
 `⚠️ Miku.N Premium, Premium Gold, Patreon are not available (watch out for impersonators) ⚠️`
+
 > removed from open source to avoid cheap knock off's and impersonating bots 
 
 <br><hr>
@@ -110,8 +113,9 @@ Best Anime bot with <b> 125+ <b> commands🎀
 
 > Miku.N Discord Bot has been Discontinued. No more Premium or Patreon are taken at the moment. 
 > 
-> `Donations are taken via Paypal / Wise / Indian payments / Crypto.. Join support server for more info`
-> `As there are many audience for the service Donations will fuel Juniors to take over`
+> Donations are taken via Paypal / Wise / Indian payments / Crypto.. Join support server for more info
+>  
+> As there are many audience for the service Donations will fuel Juniors to take over
 
 <br>
 <h2>Invite link:</h2>
