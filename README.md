@@ -1,7 +1,7 @@
 # Miku.N discord bot <img src="https://komarev.com/ghpvc/?username=MikuNDiscordbot&label=Views&style=flat&color=blueviolet" alt="counter"/>
 
 
-<strong><h4>`📢 Important`<sub> (20-Nov-2022)</sub></h4>&nbsp; &nbsp; Shutingdown bot from `28/11/2023` because of Discord API Changes & Ending of Heroku Free service <br>&nbsp; &nbsp; Looking forward for new "Junior collaborators" to join.. <3 <br>
+<strong><h4>`📢 Important`<sub> (20-Nov-2022)</sub></h4>&nbsp; &nbsp; Shutingdown bot from `28/11/2022` because of Discord API Changes & Ending of Heroku Free service <br>&nbsp; &nbsp; Looking forward for new "Junior collaborators" to join.. <3 <br>
 
 <strong style="colour: pink"> ➺ Come back soon with ✨ NFT Mini Game ✨</strong>
 
